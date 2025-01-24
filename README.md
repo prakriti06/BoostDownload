@@ -20,3 +20,26 @@ A command-line utility for downloading files from a given URL using multiple thr
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/multithreaded-downloader.git
+
+2. Navigate to the project directory
+   ```bash
+   cd multithreaded-downloader
+3. Install Dependencies
+   ```bash
+   sudo apt install libcurl4-openssl-dev
+4. Build and Run the project
+   ```bash
+   make
+   ./multithreadedDownloader -u <url> -o <filename> -n <number_of_threads>
+
+
+### Steps to add it to your project:
+1. Create a new file named `README.md` in the root of your project.
+2. Paste the content above into the `README.md` file.
+3. Add and commit the file to Git:
+
+```bash
+git add README.md
+git commit -m "Add README file"
+git push
+
