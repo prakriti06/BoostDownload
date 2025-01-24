@@ -33,11 +33,11 @@ A command-line utility for downloading files from a given URL using multiple thr
    ./multithreadedDownloader -u <url> -o <filename> -n <number_of_threads>
 
 ## Project Screenshot
-![Image Alt Text](https://github.com/prakriti06/BoostDownload/raw/master/Downloader.png)
+![Image Alt Text](https://github.com/prakriti06/BoostDownload/raw/main/Downloader.png)
 
 
 ## Video Demonstration
-[Video](https://github.com/prakriti06/BoostDownload/raw/master/Demo.mp4)
+[Video](https://github.com/prakriti06/BoostDownload/raw/main/Demo.mp4)
 
 
 ### Steps to add it to your project:
