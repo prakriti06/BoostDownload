@@ -32,6 +32,12 @@ A command-line utility for downloading files from a given URL using multiple thr
    make
    ./multithreadedDownloader -u <url> -o <filename> -n <number_of_threads>
 
+## Video Demonstration
+
+<video width="640" height="360" controls>
+  <source src="Demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ### Steps to add it to your project:
 1. Create a new file named `README.md` in the root of your project.
@@ -42,4 +48,6 @@ A command-line utility for downloading files from a given URL using multiple thr
 git add README.md
 git commit -m "Add README file"
 git push
+
+
 
