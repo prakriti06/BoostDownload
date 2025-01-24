@@ -35,7 +35,7 @@ A command-line utility for downloading files from a given URL using multiple thr
 ## Video Demonstration
 
 <video width="640" height="360" controls>
-  <source src="Demo.mp4" type="video/mp4">
+  <source src="[Demo.mp4](https://github.com/prakriti06/BoostDownload/blob/ccc221e83c4392e846aaaf1a4cee51ec9483aa3e/Demo.mp4.mp4)" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
